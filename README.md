@@ -108,4 +108,7 @@ XORs each byte with a repeating key
 
 This basic polymorphic transformation helps obfuscate payloads to evade detection.
 
+⚠️ Disclaimer
+This project was developed strictly for educational and research purposes. I do not endorse or condone the use of this tool for malicious activities. Any misuse of this code or concepts is not my responsibility. By using this repository, you agree to comply with all applicable laws and regulations in your jurisdiction.
 
+Use responsibly. 🔒
