@@ -1,3 +1,11 @@
+ # ⚠️Disclaimer – This Crypter Is Not Perfect
+This crypter is a basic educational example and not designed to bypass all antivirus or EDR solutions.
+It lacks advanced obfuscation, polymorphic mutation, or anti-emulation techniques used by professional tools.
+As such, it may be detected by modern security solutions. #
+
+Use it strictly for research, red teaming in controlled environments, or learning how basic crypters function.
+
+❗ The developer of this project is not responsible for any misuse.
 
 ![Capture331](https://github.com/user-attachments/assets/f7de3e44-d31e-408a-892b-eadd96948873)
 
