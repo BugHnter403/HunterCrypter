@@ -1,4 +1,10 @@
+
+![Capture331](https://github.com/user-attachments/assets/f7de3e44-d31e-408a-892b-eadd96948873)
+
+![Capture112w](https://github.com/user-attachments/assets/7f6a2c81-5351-40f0-a9a8-a48464c700ff)
+
 https://www.virustotal.com/gui/file/29267ecfb8fef5e303810996552b4fddc11a8bda8904db19afe6858a9b7f3d58/detection
+
 
 
 # 🕵️‍♂️ StealthLoader Crypter (FUD Runtime EXE Encryptor)
