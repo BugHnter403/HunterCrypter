@@ -15,7 +15,7 @@ https://www.virustotal.com/gui/file/29267ecfb8fef5e303810996552b4fddc11a8bda8904
 
 
 
-# 🕵️‍♂️ StealthLoader Crypter (FUD Runtime EXE Encryptor)
+# 🕵️‍♂️ StealthLoader Crypter
 
 This project provides a full implementation of a runtime EXE crypter. It includes:
 
