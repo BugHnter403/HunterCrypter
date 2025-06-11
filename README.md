@@ -23,7 +23,7 @@ This project provides a full implementation of a runtime EXE crypter. It include
 /Crypter/
 │
 
-├── encrypt_exe.py # Encrypts a .exe file to a C++ array
+├── encrypt.py # Encrypts a .exe file to a C++ array
 
 ├── generate_key_hex.py # Generates a random encryption key (hex)
 
