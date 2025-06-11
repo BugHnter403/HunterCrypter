@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  StealthLoader.vcxproj -> D:\dausd\source\repos\StealthLoader\x64\Release\StealthLoader.exe
