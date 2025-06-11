@@ -13,11 +13,17 @@ This project provides a full implementation of a runtime EXE crypter. It include
 
 /Crypter/
 │
+
 ├── encrypt_exe.py # Encrypts a .exe file to a C++ array
+
 ├── generate_key_hex.py # Generates a random encryption key (hex)
+
 ├── key.hex # Key generated from the above script
+
 ├── payload.cpp # Output of encryption: C++-formatted payload
+
 ├── StealthLoader/
+
 │ └── StealthLoader.cpp # The main crypter loader in C++
 
 
